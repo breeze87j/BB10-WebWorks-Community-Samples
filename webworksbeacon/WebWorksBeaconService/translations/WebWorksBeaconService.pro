@@ -1,1 +1,0 @@
-include (../WebWorksBeaconService.pro)
